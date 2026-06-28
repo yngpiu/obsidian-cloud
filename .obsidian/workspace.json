@@ -11,10 +11,14 @@
             "id": "ca8b73239faec54b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tiếng Trung/Bộ Thủ/人 - Bộ Nhân.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "人 - Bộ Nhân"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tiếng Trung/Bộ Thủ/人 - Bộ Nhân.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến"
+              "title": "Liên kết đến của 人 - Bộ Nhân"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tiếng Trung/Bộ Thủ/人 - Bộ Nhân.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liên kết đi ra"
+              "title": "Liên kết đi ra từ 人 - Bộ Nhân"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tiếng Trung/Bộ Thủ/人 - Bộ Nhân.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Đề cương"
+              "title": "Đề cương của 人 - Bộ Nhân"
             }
           },
           {
@@ -188,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f755b76ace87d7bb",
+  "active": "ca8b73239faec54b",
   "lastOpenFiles": [
+    "Tiếng Trung/Bộ Thủ/人 - Bộ Nhân.md",
     "Tiếng Trung/Bộ Thủ",
     "Tiếng Trung",
     "README.md"
