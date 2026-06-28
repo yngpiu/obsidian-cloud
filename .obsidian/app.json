@@ -1,4 +1,5 @@
 {
   "spellcheck": false,
-  "attachmentFolderPath": "Tài Nguyên"
+  "attachmentFolderPath": "Tài Nguyên",
+  "promptDelete": false
 }
